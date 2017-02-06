@@ -1,0 +1,1 @@
+import Table_A.sql and Table_B.sql and from the saved web page joins examples can be worked out very easily
